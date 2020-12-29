@@ -3,7 +3,7 @@
 <!--
 **VishnuDuttSharma/VishnuDuttSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on interpretable/explainable Deep Learning + Robotic perception and planning.
 - 🌱 I’m currently learning the depth and breadth of the above areas.

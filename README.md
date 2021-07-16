@@ -10,6 +10,6 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on project on robotic decision-making and their explanations. 
 - 💬 Ask me about how deep learning models work and what are their limitations.
 - 📫 How to reach me: Email me or DM on [Twitter](https://twitter.com/VishnuDSharma) 
-- 😄 Pronouns: he/hom
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: You can get one such summary too -- just create a GitHub repo with the name exactly matching your username, and anything you write in the repo's README will show up here.
 

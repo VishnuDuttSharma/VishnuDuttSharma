@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on interpretable/explainable Deep Learning + Robotic perception and planning.
+- 🔭 I’m currently working on Robotic perception and planning and interpretable/explainable deep learning
 - 🌱 I’m currently learning the depth and breadth of the above areas.
 - 👯 I’m looking to collaborate on project on robotic decision-making and their explanations. 
 - 💬 Ask me about how deep learning models work and what are their limitations.
